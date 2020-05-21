@@ -19,7 +19,7 @@ h2c:
 
 image:
   repository: rmortale/podinfo
-  tag: 3.1.5
+  tag: dev-s8ezjtdo
   pullPolicy: IfNotPresent
 
 service:
