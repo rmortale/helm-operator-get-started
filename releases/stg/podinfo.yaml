@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: rmortale/podinfo
-      tag: stg-9ij63o4c
+      tag: stg-8gzkk3h
     replicaCount: 2
     hpa:
       enabled: true
