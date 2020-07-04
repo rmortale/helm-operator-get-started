@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: rmortale/podinfo
-      tag: dev-ep7at7ym
+      tag: dev-cc7scggg
     replicaCount: 1
     hpa:
       enabled: false
